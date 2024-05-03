@@ -21,3 +21,12 @@
   grid-template-columns: 1fr min-content;
 }
 
+button {
+  color: rgb(0, 47, 255);
+  background-color: red;
+}
+
+button:hover {
+  background-color: rgb(0, 47, 255);
+  color: red;
+}
